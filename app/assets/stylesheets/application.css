@@ -14,3 +14,5 @@
  *= require_self
  */
  @import "font-awesome";
+ @import "app/assets/stylesheets/restaurants.css";
+ @import "app/assets/stylesheets/review.css";
